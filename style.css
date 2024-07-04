@@ -32,6 +32,7 @@
     text-transform: uppercase;
 }
 .some-text{
+    text-align: justify;
     color: #ffffff;
      margin-left: 20px;
      width: 50%;
